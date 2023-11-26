@@ -1,1 +1,3 @@
-# git_test
+#git_test
+My frist Github repo!
+Hello odin!
